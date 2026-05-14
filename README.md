@@ -96,7 +96,7 @@ This page analyzes customer groups and categories to identify patterns and trend
 
 
 ```md
-![Groups and Categories](Screenshots/groups_categories.png)
+![Groups and Categories](Screenshots/groups_catagories.png)
 ```
 
 ---
@@ -188,7 +188,7 @@ This page focuses on churn behavior across different customer age groups.
 
 
 ```md
-![Age Groups](Screenshots/age_groups.png)
+![Age Groups](Screenshots/age_group.png)
 ```
 
 ---
