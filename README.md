@@ -3,7 +3,7 @@
 
 ## 📌 Project Overview
 
-This project presents an interactive data analysis dashboard built using **Power BI**. The dashboard provides insights into key business metrics, trends, customer behavior, and performance indicators through dynamic visualizations and reports.
+This project present interactive data analysis dashboards built using **Power BI**. These dashboards provide insights into key business metrics, trends, customer behavior, and performance indicators through dynamic visualizations and reports.
 
 The goal of this project is to transform raw data into meaningful insights that support data-driven decision-making.
 
