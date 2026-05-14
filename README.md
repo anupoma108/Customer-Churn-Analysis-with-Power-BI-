@@ -49,9 +49,9 @@ This page provides a high-level summary of customer churn metrics, KPIs, and ove
 ### 🖼️ Dashboard Screenshot
 
 
-```md
+
 ![Overview Dashboard](Screenshots/overview.png)
-```
+
 
 ---
 
@@ -72,9 +72,9 @@ This dashboard focuses on customer demographics and how different demographic gr
 ### 🖼️ Dashboard Screenshot
 
 
-```md
+
 ![Churn Demographics](Screenshots/churn_demographics.png)
-```
+
 
 ---
 
@@ -95,9 +95,9 @@ This page analyzes customer groups and categories to identify patterns and trend
 ### 🖼️ Dashboard Screenshot
 
 
-```md
+
 ![Groups and Categories](Screenshots/groups_catagories.png)
-```
+
 
 ---
 
@@ -118,9 +118,9 @@ This dashboard examines customer behavior and churn trends related to unlimited 
 ### 🖼️ Dashboard Screenshot
 
 
-```md
+
 ![Unlimited Plan](Screenshots/unlimited_plan.png)
-```
+
 
 ---
 
@@ -141,9 +141,9 @@ This page explores the impact of international calling activity on customer chur
 ### 🖼️ Dashboard Screenshot
 
 
-```md
+
 ![International Calls](Screenshots/international_calls.png)
-```
+
 
 ---
 
@@ -164,9 +164,9 @@ This dashboard analyzes how different contract types influence customer retentio
 ### 🖼️ Dashboard Screenshot
 
 
-```md
+
 ![Contract Type](Screenshots/contract_type.png)
-```
+
 
 ---
 
@@ -187,9 +187,9 @@ This page focuses on churn behavior across different customer age groups.
 ### 🖼️ Dashboard Screenshot
 
 
-```md
+
 ![Age Groups](Screenshots/age_group.png)
-```
+
 
 ---
 
@@ -210,9 +210,9 @@ This dashboard combines payment methods and contract information to analyze chur
 ### 🖼️ Dashboard Screenshot
 
 
-```md
+
 ![Payment and Contract](Screenshots/payment_contract.png)
-```
+
 
 ---
 
@@ -233,9 +233,9 @@ This page analyzes additional charges and their relationship with customer churn
 ### 🖼️ Dashboard Screenshot
 
 
-```md
+
 ![Extra Charges](Screenshots/extra_charges.png)
-```
+
 
 ---
 
@@ -257,9 +257,9 @@ This page contains final analytical insights and summarized findings from the da
 
 
 
-```md
+
 ![Insights Dashboard](Screenshots/insights.png)
-```
+
 
 ---
 
